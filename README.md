@@ -2,7 +2,7 @@
 
 Compile and run WindyDayLauncher to play.
 
-[[https://github.com/joshcoates/windyday/screenshot/in-game.png|alt=screenshot]]
+[[https://github.com/joshcoates/windyday/blob/master/screenshot/in-game.png|alt=screenshot]]
 
 Controls:
 ---------
